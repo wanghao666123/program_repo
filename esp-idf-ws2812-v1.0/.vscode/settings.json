@@ -1,0 +1,14 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPath": "/home/wh/esp/v5.4.1/esp-idf",
+    "idf.pythonInstallPath": "/usr/bin/python3",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32.cfg"
+    ],
+    "idf.port": "/dev/ttyS4",
+    "idf.toolsPath": "/home/wh/esp-idf-tools",
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32"
+    }
+}
